@@ -1,0 +1,7 @@
+setup.py
+sliquantkit/__init__.py
+sliquantkit.egg-info/PKG-INFO
+sliquantkit.egg-info/SOURCES.txt
+sliquantkit.egg-info/dependency_links.txt
+sliquantkit.egg-info/not-zip-safe
+sliquantkit.egg-info/top_level.txt
