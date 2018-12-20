@@ -1,2 +1,5 @@
-def main():
-    pass
+
+from sliquantkit.DataImport.DataCleaning import *
+
+
+cd "D:\PythonDir\sliquantkit"

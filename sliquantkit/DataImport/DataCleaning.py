@@ -12,7 +12,6 @@ situation in China that stocks will be suspended from trading for days even year
 import pandas as pd
 import numpy as np
 import datetime
-import GroupFactor
 
 raw_data = pd.read_csv('D:/PythonDir/winddata/AS_%Ret20040101_20181113_wkly.csv')
 o_file = open('D:/PythonDir/tusharedata/listing_StockInfo.csv')
