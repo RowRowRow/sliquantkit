@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup,find_packages
 
 setup(name = 'sliquantkit',
       version = '0.1',
@@ -6,6 +6,6 @@ setup(name = 'sliquantkit',
       author='Sida Li',
       author_email='szlsd123@163.com',
       license='MIT',
-      packages=['sliquantkit'],
+      packages=find_packages(include = ['sliquantkit','sliquantkit.*']),
       zip_safe=False)
     
